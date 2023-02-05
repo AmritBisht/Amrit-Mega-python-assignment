@@ -1,4 +1,11 @@
-
+                                                   
+						   
+						   
+						   PLEASE VIEW IT AS RAW 
+						   
+						   
+						   
+						   
 Q1. Why do we call Python as a general purpose and high-level programming language?
 
 Ans: We call Python as a general purpose programming language because it is used in many popular fields 
